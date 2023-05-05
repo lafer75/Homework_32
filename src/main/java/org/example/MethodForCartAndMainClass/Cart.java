@@ -1,4 +1,4 @@
-package org.example.MethodWithCartAndMainClass;
+package org.example.MethodForCartAndMainClass;
 
 import org.example.ProductListAndConstructor.Product;
 import org.springframework.stereotype.Component;

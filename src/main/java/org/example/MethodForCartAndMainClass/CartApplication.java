@@ -1,4 +1,4 @@
-package org.example.MethodWithCartAndMainClass;
+package org.example.MethodForCartAndMainClass;
 import java.util.List;
 import java.util.Scanner;
 
