@@ -1,6 +1,6 @@
-package org.example.Main;
+package org.example.main;
 
-import org.example.Product.Product;
+import org.example.product.Product;
 import org.springframework.stereotype.Component;
 import java.util.ArrayList;
 import java.util.List;

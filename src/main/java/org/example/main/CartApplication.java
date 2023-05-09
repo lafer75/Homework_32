@@ -1,10 +1,10 @@
-package org.example.Main;
+package org.example.main;
 import java.util.List;
 import java.util.Scanner;
 
-import org.example.Bean.BeanClass;
-import org.example.Product.Product;
-import org.example.Product.ProductRepository;
+import org.example.bean.BeanClass;
+import org.example.product.Product;
+import org.example.product.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
