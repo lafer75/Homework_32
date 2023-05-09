@@ -1,9 +1,8 @@
-package org.example.ProductListAndConstructor;
+package org.example.Product;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.example.ProductListAndConstructor.Product;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,10 +1,10 @@
-package org.example.MethodForCartAndMainClass;
+package org.example.Main;
 import java.util.List;
 import java.util.Scanner;
 
 import org.example.Bean.BeanClass;
-import org.example.ProductListAndConstructor.Product;
-import org.example.ProductListAndConstructor.ProductRepository;
+import org.example.Product.Product;
+import org.example.Product.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

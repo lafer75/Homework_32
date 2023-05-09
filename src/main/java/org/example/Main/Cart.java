@@ -1,6 +1,6 @@
-package org.example.MethodForCartAndMainClass;
+package org.example.Main;
 
-import org.example.ProductListAndConstructor.Product;
+import org.example.Product.Product;
 import org.springframework.stereotype.Component;
 import java.util.ArrayList;
 import java.util.List;

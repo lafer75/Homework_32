@@ -1,6 +1,6 @@
 package org.example.Bean;
-import org.example.MethodForCartAndMainClass.Cart;
-import org.example.ProductListAndConstructor.ProductRepository;
+import org.example.Main.Cart;
+import org.example.Product.ProductRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
